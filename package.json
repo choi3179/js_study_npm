@@ -10,5 +10,8 @@
     "choi3179"
   ],
   "author": "choi3179",
-  "license": "ISC"
+  "license": "ISC",
+  "bin": {
+	"pysatellite": "./index.js"
+  }
 }
