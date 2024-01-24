@@ -1,0 +1,14 @@
+{
+  "name": "replica3179",
+  "version": "0.1.0",
+  "description": "JS cli program deploy study by using npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "choi3179"
+  ],
+  "author": "choi3179",
+  "license": "ISC"
+}
