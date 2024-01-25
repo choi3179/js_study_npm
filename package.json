@@ -1,6 +1,6 @@
 {
   "name": "replica3179",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "JS cli program deploy study by using npm",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,6 @@
   "author": "choi3179",
   "license": "ISC",
   "bin": {
-	"pysatellite": "./index.js"
+    "pysatellite": "./index.js"
   }
 }

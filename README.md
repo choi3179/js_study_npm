@@ -15,9 +15,9 @@
 
 ### use
 ```
-$ npm install -g choi179
-$ choi3179
-hello choi3179
+$ npm install -g replica3179
+$ replica3179 arg1 arg2 arg3 
+선택된 발표자 :
 ```
 
 ### dev stack
