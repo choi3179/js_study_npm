@@ -31,9 +31,10 @@ class Chicken extends Food {
 const pizza = new Pizza('피자');
 pizza.addBrand('피자헛');
 pizza.addBrand('도미노 피자');
-pizza.print();
 
 const chicken  = new Chicken('치킨');
 chicken.addBrand('굽네치킨');
 chicken.addBrand('BBQ');
+
+pizza.print();
 chicken.print();
