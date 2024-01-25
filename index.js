@@ -20,7 +20,7 @@ console.log(`
 
 const argv = process.argv;
 
-const names = argv.slice(2).slice(0, -1);
+const names = argv.slice(2);
 
 const randomName = names[Math.floor(Math.random() * names.length)];
 
