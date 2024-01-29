@@ -28,7 +28,8 @@ if( names.length < 2 ) {
 	process.exit();
 }
 
-function select(...names) {
+function select(a,...names) {
+	names.push(a);
 	const randomName = names[Math.floor(Math.random() * names.length)];
 	console.log(`선택된 발표자 : ${randomName}`);
 }
